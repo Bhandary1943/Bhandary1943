@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Reethu Kedila!
 
-<!--
-**Bhandary1943/Bhandary1943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year CSE Student – IoT, Cybersecurity & Blockchain  
+💡 Passionate about building assistive tech & smart AI solutions  
+💼 Intern @ WIREOT | Developer of 'Second Eye' 👁️  
+🌟 AI | ML | IoT | Python | Embedded Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🔗 [Nayan Eyezz – Face Recognition for the Visually Impaired](https://huggingface.co/spaces/Bhandary1943/Nayan-eyezz)  
+- 🧠 [JobFit – Resume Screening with AI](https://jobfitresume.streamlit.app/)
+
+---
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/reethukedila/)
+- 📧 reethurathankedila@gmail.com
