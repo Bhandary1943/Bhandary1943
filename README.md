@@ -9,9 +9,6 @@
 
 I'm a creative tech enthusiast focused on **IoT**, **Cybersecurity**, and **AI solutions** that make lives better—especially for people with disabilities. Currently working on **'Second Eye'**, an intelligent assistive device for the visually impaired.
 
-📍 Based in Karnataka | 🌐 Multilingual: English, Kannada, Hindi  
-🔍 Always exploring new tech in AI, ML, and cloud-integrated IoT solutions.
-
 ---
 
 ## 🔥 What I Do Best
@@ -32,7 +29,7 @@ I'm a creative tech enthusiast focused on **IoT**, **Cybersecurity**, and **AI s
 
 ---
 
-## 🧠 Skills & Tech Toolbox
+## 🧠 Skills & Tools
 
 ### 💻 Languages:
 Python | Java | C | HTML/CSS | JavaScript
@@ -44,7 +41,7 @@ TensorFlow | Keras | OpenCV | NLP | CNN | Data Analysis | Face_Recognition
 Streamlit | Angular.js | Node.js 
 
 ### ☁️ Cloud:
-AWS EC2 | Streamlit Community | GitHub Actions | Render | Hugging Face 
+AWS EC2 | S3 | Streamlit Community | GitHub Actions | Render | Hugging Face 
 
 ### 🔧 IoT & Devices:
 ESP32-CAM | Arduino | Sensors | Bluetooth & Wi-Fi Modules
