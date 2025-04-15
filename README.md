@@ -43,7 +43,7 @@ TensorFlow | Keras | OpenCV | NLP | CNN | Data Analysis | Face_Recognition
 ### 🌍 Web & UI:
 Streamlit | Angular.js | Node.js 
 
-### ☁️ Cloud & DevOps:
+### ☁️ Cloud:
 AWS EC2 | Streamlit Community | GitHub Actions | Render | Hugging Face 
 
 ### 🔧 IoT & Devices:
