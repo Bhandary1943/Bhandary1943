@@ -10,7 +10,7 @@
 🧠 I’ve built real-world systems like:
 - 🚒 **IoT Smart Fire Detection System** — A real-time alerting system with sensors & actuators.
 - 🌿 **Plant Disease Detection** — Using deep learning (TensorFlow/Keras) for crop health diagnosis.
-- 🧠 **AI Resume Analyzer** — ML & NLP-powered job-fit assessment tool with Streamlit interface.
+- 🧠 **AI Resume Analyzer** — ML & NLP-powered job-fit assessment tool with Streamlit interface (https://jobfitresume.streamlit.app/).
 
 📚 Certified in:
 - Industry 4.0 & IIoT (IIT Kharagpur)
