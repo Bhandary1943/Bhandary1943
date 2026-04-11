@@ -1,28 +1,26 @@
-## 👋 Hi there, I'm Reethu K
+👋 Hi there, I'm Reethu K
 
-🎓 I'm a Computer Science & Engineering graduate specialized in IoT, with a deep passion for Embedded Systems, AI, and real-time solutions.
+💼 I'm an IT Specialist Officer (Scale I) working in the Core Banking domain, with hands-on experience in Finacle Scriptinglike CORE and Centralized Customer Modification.
 
-💼 Worked as an **Embedded Systems Engineer at WireOT Pvt Ltd**, where I built intelligent IoT solutions using **ESP32-CAM, Raspberry Pi**, and **Python** for assistive technology—like the **Second Eye**, an offline AI-powered device for the visually impaired.
+🏦 Currently contributing to banking operations by developing and customizing solutions that enhance system efficiency, accuracy, and reliability within core banking systems.
 
-🔧 My toolbox includes:
-`Python` | `Embedded C++` | `Java` | `Node.js` | `Angular.js` | `Streamlit` | `HTML/CSS` | `MySQL` | `VS Code` | `Arduino IDE` | `RPI`
+💡 Previously worked as an Embedded Systems Engineer, where I built real-world IoT and AI-based solutions, including assistive technology for the visually impaired using ESP32-CAM, Raspberry Pi, and Python.
 
-🧠 I’ve built real-world systems like:
-- 🚒 **IoT Smart Fire Detection System** — A real-time alerting system with sensors & actuators.
-- 🌿 **Plant Disease Detection** — Using deep learning (TensorFlow/Keras) for crop health diagnosis.
-- 🧠 **AI Resume Analyzer** — ML & NLP-powered job-fit assessment tool with Streamlit interface (https://jobfitresume.streamlit.app/).
+🔧 Technical Skills:
+Finacle | Core Banking | C | Python | Java | SQL | Embedded C++ | AngularJS | Node.js | Streamlit | TensorFlow | Keras | Arduino
 
-📚 Certified in:
-- Industry 4.0 & IIoT (IIT Kharagpur)
-- Google Cybersecurity (Coursera)
-- Salesforce Admin (Smart Internz)
-- Innovations & Inventions on Autonomous Vehicle, Dr. Yong Wang| USA, (MITE)
+🧠 Projects:
 
-🌱 Always learning more about:  
-**Embedded Systems**, **Edge AI**, **ML/DL**, and **Human-Centered Design**.
+🧠 AI Resume Analyzer – NLP & ML-based job-fit assessment tool
+🌿 Plant Disease Detection – Deep learning-based crop diagnosis
+🚒 IoT Fire Detection System – Real-time monitoring using sensors & IoT
 
-📫 Reach me at: [reethukedila@gmail.com](mailto:reethukedila@gmail.com)  
-🔗 GitHub: [Bhandary1943](https://github.com/Bhandary1943)  
-🔗 LinkedIn: [reethukedila](https://www.linkedin.com/in/reethukedila)
+🎯 Areas of Interest:
+Core Banking Technology | Finacle | Artificial Intelligence | IoT | Data Analysis
 
-💡 *“Tech should empower everyone — I build systems that make that happen.”*
+📫 Reach me at: reethukedila@gmail.com
+
+🔗 GitHub: Bhandary1943
+🔗 LinkedIn: reethukedila
+
+💡 “Building technology solutions—from core banking systems to intelligent real-world applications.”
